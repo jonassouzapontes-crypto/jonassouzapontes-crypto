@@ -1,4 +1,5 @@
 ## Hi there 👋
+Meu nome é Jonas e meu sonho é crescer na vida honestamente. Ainda não sei que faculdade fazer, mas acho interessante alguma que tem o espaço como tema principal,  Astrologia por exemplo. Católico, flamenguista, e com expectativas pro futuro. 22
 
 <!--
 **jonassouzapontes-crypto/jonassouzapontes-crypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
